@@ -3,6 +3,9 @@
 ## 介绍
 
 原生 JavaScript 实现的固定在顶部效果，兼容到 IE7+。
+## 演示
+
+[https://hero3706.github.io/StickyHead/](https://hero3706.github.io/StickyHead/)
 
 
 
@@ -17,7 +20,7 @@ IE7+
 ## 下载
 
 ```js
-
+git clone https://github.com/Hero3706/StickyHead.git
 ```
 
 ## 使用
