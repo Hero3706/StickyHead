@@ -20,7 +20,7 @@ IE7+
 ## 下载
 
 ```js
-git clone https://github.com/Hero3706/StickyHead.git
+https://github.com/Hero3706/StickyHead.git
 ```
 
 ## 使用
