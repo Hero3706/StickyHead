@@ -4,7 +4,7 @@
 
 原生 JavaScript 实现的固定在顶部效果，兼容到 IE7+。
 
-效果演示：[https://mqyqingfeng.github.io/Sticky/](https://mqyqingfeng.github.io/Sticky/)
+
 
 ## 兼容性
 
@@ -17,7 +17,7 @@ IE7+
 ## 下载
 
 ```js
-git clone git@github.com:mqyqingfeng/Sticky.git
+
 ```
 
 ## 使用
